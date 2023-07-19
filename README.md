@@ -103,3 +103,14 @@ Moreover, there were a few mistakes that I fixed in the given pre-processing fun
 
 ### EDA and graphs
 
+**Histograms of all the continues variables**
+![Alt text](img/cont_hist.svg)
+*Figure1 - continues histogram*
+
+**Histograms of all the categorical variables**
+![Alt text](img/cat_hist.svg)
+*Figure1 - categorical histogram*
+
+**Histograms of all the binary variables**
+![Alt text](img/bin_hist.svg)
+*Figure1 - binary histogram*
